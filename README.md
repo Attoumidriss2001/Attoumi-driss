@@ -5,25 +5,40 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=attoumidriss2001" alt="attoumidriss2001" /></a> </p>
 
-- 🔭 I’m currently working on [ddd](dddd1)
 
-- 🌱 I’m currently learning **jdgd**
+What I Do ?
+----------------------------
 
-- 👯 I’m looking to collaborate on [fkljsdfsd](fjkvj)
+###  𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 :
+ * ✅ Developing highly scalable production-ready models for various deep learning and statistical use cases.
+ * ✅  Complex quantitative modeling for dynamic forecasting and time series analysis.
+### 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 :
+   ✅ Implementing user authentication and authorization systems.
+   ✅ Designing and developing RESTful APIs for communication between the front end and back end.
+   ✅ Integrating third-party APIs and services into your applications.
+   ✅ Building real-time features using technologies like WebSockets.
+   ✅ Implementing server-side rendering (SSR) for improved SEO and initial page load performance.
+   ✅ Optimizing application performance and ensuring efficient resource utilization.
+   ✅ Setting up and managing databases, both SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB, Cassandra).
+   ✅ Implementing data validation, sanitization, and security measures to protect against common web vulnerabilities (e.g., XSS, CSRF, SQL injection).
+   ✅ Developing and maintaining unit tests, integration tests, and end-to-end tests for robust code quality.
+   ✅ Utilizing version control systems (e.g., Git) and collaborative development tools.
+### 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱  :
+    ✅ Implementing serverless computing for auto-scaling and cost optimization.
+    ✅ Building and managing containerized applications using technologies like Docker and Kubernetes.
+    ✅ Implementing Infrastructure as Code (IAC) with tools like Terraform or AWS CloudFormation for automated infrastructure provisioning.
+    ✅ Setting up continuous integration and continuous deployment (CI/CD) pipelines for efficient software delivery.
+    ✅ Implementing security best practices such as encryption, identity and access management (IAM), and security monitoring.
+    ✅ Leveraging serverless or managed services for real-time data processing and analytics.
+    ✅ Utilizing cloud-based machine learning services for model training and deployment.
+    ✅ Implementing disaster recovery and backup strategies in the cloud.
+    ✅ Integrating Internet of Things (IoT) data and devices with cloud platforms for data analysis and management.
+    ✅ Implementing cloud-native monitoring and logging solutions for application performance and troubleshooting.
+    ✅ Exploring edge computing solutions for low-latency and offline capabilities.
+    ✅ Adhering to compliance and regulatory requirements specific to your industry when using cloud services.
+    ✅ Leveraging cloud-based data warehousing and analytics platforms for business intelligence.
+    ✅ Exploring multi-cloud or hybrid cloud strategies for redundancy and flexibility.
 
-- 🤝 I’m looking for help with [dfjkvf](djkdf)
-
-- 👨‍💻 All of my projects are available at [jvndfjv](jvndfjv)
-
-- 📝 I regularly write articles on [dfvjkdfvjkf](dfvjkdfvjkf)
-
-- 💬 Ask me about **gjgg**
-
-- 📫 How to reach me **djfgfg**
-
-- 📄 Know about my experiences [jkvdfj](jkvdfj)
-
-- ⚡ Fun fact **vjkdfv**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
