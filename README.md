@@ -10,11 +10,11 @@ What I Do ?
 ----------------------------
 
 ###  𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 :
-   *✅ Data preprocessing and cleaning to ensure high data quality and consistency.
-    *✅ Exploratory data analysis (EDA) to gain insights and identify patterns in datasets.
-    *✅ Feature engineering to create meaningful and predictive variables for machine learning models.
-    *✅ Selecting appropriate machine learning algorithms and techniques based on the nature of the data and the problem.
-    *✅ Model training and hyperparameter tuning for optimal model performance.
+   *✅ Data preprocessing and cleaning to ensure high data quality and consistency.<br/>
+    *✅ Exploratory data analysis (EDA) to gain insights and identify patterns in datasets.<br/>
+    *✅ Feature engineering to create meaningful and predictive variables for machine learning models.<br/>
+    *✅ Selecting appropriate machine learning algorithms and techniques based on the nature of the data and the problem.<br/>
+    *✅ Model training and hyperparameter tuning for optimal model performance.<br/>
     *✅ Evaluating machine learning models using appropriate metrics (e.g., accuracy, precision, recall, F1-score, ROC AUC).
     *✅ Implementing cross-validation techniques to assess model generalization.
     *✅ Handling imbalanced datasets through techniques like oversampling, undersampling, or SMOTE.
