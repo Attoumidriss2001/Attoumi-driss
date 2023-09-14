@@ -10,35 +10,41 @@ What I Do ?
 ----------------------------
 
 ###  𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 :
- * ✅ Developing highly scalable production-ready models for various deep learning and statistical use cases.
- * ✅  Complex quantitative modeling for dynamic forecasting and time series analysis.
+   *✅ Data preprocessing and cleaning to ensure high data quality and consistency.
+    *✅ Exploratory data analysis (EDA) to gain insights and identify patterns in datasets.
+    *✅ Feature engineering to create meaningful and predictive variables for machine learning models.
+    *✅ Selecting appropriate machine learning algorithms and techniques based on the nature of the data and the problem.
+    *✅ Model training and hyperparameter tuning for optimal model performance.
+    *✅ Evaluating machine learning models using appropriate metrics (e.g., accuracy, precision, recall, F1-score, ROC AUC).
+    *✅ Implementing cross-validation techniques to assess model generalization.
+    *✅ Handling imbalanced datasets through techniques like oversampling, undersampling, or SMOTE.
+    *✅ Interpreting machine learning models to understand feature importance and model behavior.
+    *✅ Deploying machine learning models in production environments for real-time predictions.
+    
 ### 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 :
-   ✅ Implementing user authentication and authorization systems.
-   ✅ Designing and developing RESTful APIs for communication between the front end and back end.
-   ✅ Integrating third-party APIs and services into your applications.
-   ✅ Building real-time features using technologies like WebSockets.
-   ✅ Implementing server-side rendering (SSR) for improved SEO and initial page load performance.
-   ✅ Optimizing application performance and ensuring efficient resource utilization.
-   ✅ Setting up and managing databases, both SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB, Cassandra).
-   ✅ Implementing data validation, sanitization, and security measures to protect against common web vulnerabilities (e.g., XSS, CSRF, SQL injection).
-   ✅ Developing and maintaining unit tests, integration tests, and end-to-end tests for robust code quality.
-   ✅ Utilizing version control systems (e.g., Git) and collaborative development tools.
+   *✅ Implementing user authentication and authorization systems.
+   *✅ Designing and developing RESTful APIs for communication between the front end and back end.
+   *✅ Integrating third-party APIs and services into your applications.
+   *✅ Building real-time features using technologies like WebSockets.
+   *✅ Implementing server-side rendering (SSR) for improved SEO and initial page load performance.
+   *✅ Optimizing application performance and ensuring efficient resource utilization.
+   *✅ Setting up and managing databases, both SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB, Cassandra).
+   *✅ Implementing data validation, sanitization, and security measures to protect against common web vulnerabilities (e.g., XSS, CSRF, SQL injection).
+   *✅ Developing and maintaining unit tests, integration tests, and end-to-end tests for robust code quality.
+   *✅ Utilizing version control systems (e.g., Git) and collaborative development tools.
 ### 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱  :
-    ✅ Implementing serverless computing for auto-scaling and cost optimization.
-    ✅ Building and managing containerized applications using technologies like Docker and Kubernetes.
-    ✅ Implementing Infrastructure as Code (IAC) with tools like Terraform or AWS CloudFormation for automated infrastructure provisioning.
-    ✅ Setting up continuous integration and continuous deployment (CI/CD) pipelines for efficient software delivery.
-    ✅ Implementing security best practices such as encryption, identity and access management (IAM), and security monitoring.
-    ✅ Leveraging serverless or managed services for real-time data processing and analytics.
-    ✅ Utilizing cloud-based machine learning services for model training and deployment.
-    ✅ Implementing disaster recovery and backup strategies in the cloud.
-    ✅ Integrating Internet of Things (IoT) data and devices with cloud platforms for data analysis and management.
-    ✅ Implementing cloud-native monitoring and logging solutions for application performance and troubleshooting.
-    ✅ Exploring edge computing solutions for low-latency and offline capabilities.
-    ✅ Adhering to compliance and regulatory requirements specific to your industry when using cloud services.
-    ✅ Leveraging cloud-based data warehousing and analytics platforms for business intelligence.
-    ✅ Exploring multi-cloud or hybrid cloud strategies for redundancy and flexibility.
-
+   *✅ Implementing serverless computing for auto-scaling and cost optimization.
+    *✅ Building and managing containerized applications using technologies like Docker and Kubernetes.
+    *✅ Implementing Infrastructure as Code (IAC) with tools like Terraform or AWS CloudFormation for automated infrastructure provisioning.
+    *✅ Setting up continuous integration and continuous deployment (CI/CD) pipelines for efficient software delivery.
+    *✅ Implementing security best practices such as encryption, identity and access management (IAM), and security monitoring.
+    *✅ Leveraging serverless or managed services for real-time data processing and analytics.
+    *✅ Utilizing cloud-based machine learning services for model training and deployment.
+    *✅ Implementing disaster recovery and backup strategies in the cloud.
+    *✅ Integrating Internet of Things (IoT) data and devices with cloud platforms for data analysis and management.
+    *✅ Implementing cloud-native monitoring and logging solutions for application performance and troubleshooting.
+    *✅ Exploring edge computing solutions for low-latency and offline capabilities.
+    *✅ Adhering to compliance and regulatory requirements specific to your industry when using cloud services.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
