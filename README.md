@@ -35,18 +35,18 @@ What I Do ?
    * ✅ Staying updated with the latest security trends and technologies in the AWS ecosystem to proactively address emerging security challenges and threats.
 
 ### 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱  :
-   *✅ Implementing serverless computing for auto-scaling and cost optimization.<br/>
-    *✅ Building and managing containerized applications using technologies like Docker and Kubernetes.<br/>
-    *✅ Implementing Infrastructure as Code (IAC) with tools like Terraform or AWS CloudFormation for automated infrastructure provisioning.<br/>
-    *✅ Setting up continuous integration and continuous deployment (CI/CD) pipelines for efficient software delivery.<br/>
-    *✅ Implementing security best practices such as encryption, identity and access management (IAM), and security monitoring.<br/>
-    *✅ Leveraging serverless or managed services for real-time data processing and analytics.<br/>
-    *✅ Utilizing cloud-based machine learning services for model training and deployment.<br/>
-    *✅ Implementing disaster recovery and backup strategies in the cloud.<br/>
-    *✅ Integrating Internet of Things (IoT) data and devices with cloud platforms for data analysis and management.<br/>
-    *✅ Implementing cloud-native monitoring and logging solutions for application performance and troubleshooting.<br/>
-    *✅ Exploring edge computing solutions for low-latency and offline capabilities.<br/>
-    *✅ Adhering to compliance and regulatory requirements specific to your industry when using cloud services.
+   *  ✅ Implementing serverless computing for auto-scaling and cost optimization.<br/>
+   *  ✅ Building and managing containerized applications using technologies like Docker and Kubernetes.<br/>
+   *  ✅ Implementing Infrastructure as Code (IAC) with tools like Terraform or AWS CloudFormation for automated infrastructure provisioning.<br/>
+   *  ✅ Setting up continuous integration and continuous deployment (CI/CD) pipelines for efficient software delivery.<br/>
+   *  ✅ Implementing security best practices such as encryption, identity and access management (IAM), and security monitoring.<br/>
+   *  ✅ Leveraging serverless or managed services for real-time data processing and analytics.<br/>
+   *  ✅ Utilizing cloud-based machine learning services for model training and deployment.<br/>
+   *  ✅ Implementing disaster recovery and backup strategies in the cloud.<br/>
+   *  ✅ Integrating Internet of Things (IoT) data and devices with cloud platforms for data analysis and management.<br/>
+   *  ✅ Implementing cloud-native monitoring and logging solutions for application performance and troubleshooting.<br/>
+   *  ✅ Exploring edge computing solutions for low-latency and offline capabilities.<br/>
+   *  ✅ Adhering to compliance and regulatory requirements specific to your industry when using cloud services.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
