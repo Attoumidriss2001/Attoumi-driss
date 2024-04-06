@@ -10,28 +10,30 @@ What I Do ?
 ----------------------------
 
 ### Cloud Engineering on AWS:
-    ✅ Utilizing AWS services for infrastructure provisioning, configuration, and management to ensure scalability and reliability.<br/>
-    ✅ Implementing Infrastructure as Code (IaC) using AWS CloudFormation or other tools to automate the deployment of cloud resources.<br/>
-    ✅ Leveraging AWS monitoring and logging services such as CloudWatch and AWS Config to monitor system performance and ensure compliance.<br/>
-    ✅ Implementing security best practices using AWS Identity and Access Management (IAM), Security Groups, and Network Access Control Lists (NACLs) to protect cloud resources.<br/>
-    ✅ Designing and implementing fault-tolerant and highly available architectures using AWS services such as Elastic Load Balancing (ELB) and Auto Scaling.<br/>
-    ✅ Optimizing cost and performance of cloud resources using AWS Cost Explorer, Trusted Advisor, and other cost management tools.<br/>
-    ✅ Implementing disaster recovery and backup solutions using AWS services like Amazon S3 and AWS Backup to ensure data resilience.<br/>
-    ✅ Managing and optimizing cloud storage solutions, including Amazon S3, Amazon EBS, and Amazon Glacier, to meet performance and scalability requirements.<br/>
-    ✅ Automating routine tasks and workflows using AWS Lambda, AWS Step Functions, and other serverless technologies to improve efficiency and agility.<br/>
-    ✅ Collaborating with cross-functional teams to design and implement cloud solutions that meet business requirements and adhere to best practices.<br/>
-    
-### 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 :
-   *✅ Implementing user authentication and authorization systems.<br/>
-   *✅ Designing and developing RESTful APIs for communication between the front end and back end.<br/>
-   *✅ Integrating third-party APIs and services into your applications.<br/>
-   *✅ Building real-time features using technologies like WebSockets.<br/>
-   *✅ Implementing server-side rendering (SSR) for improved SEO and initial page load performance.<br/>
-   *✅ Optimizing application performance and ensuring efficient resource utilization.<br/>
-   *✅ Setting up and managing databases, both SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB, Cassandra).<br/>
-   *✅ Implementing data validation, sanitization, and security measures to protect against common web vulnerabilities (e.g., XSS, CSRF, SQL injection).<br/>
-   *✅ Developing and maintaining unit tests, integration tests, and end-to-end tests for robust code quality.<br/>
-   *✅ Utilizing version control systems (e.g., Git) and collaborative development tools.<br/>
+   * ✅ Implementing robust and scalable infrastructure solutions using AWS services like Amazon EC2, Amazon S3, and Amazon VPC.<br/>
+   * ✅ Designing and deploying highly available and fault-tolerant architectures using AWS Elastic Load Balancing (ELB) and Auto Scaling.<br/>
+   * ✅ Managing and optimizing cloud resources to ensure cost-effectiveness and performance using AWS Cost Explorer and AWS Trusted Advisor.<br/>
+   * ✅ Implementing security best practices using AWS Identity and Access Management (IAM), Security Groups, and Network Access Control Lists (NACLs).<br/>
+   * ✅ Automating infrastructure provisioning and management tasks using AWS CloudFormation or AWS CLI to achieve Infrastructure as Code (IaC).<br/>
+   * ✅ Monitoring system performance and health using AWS CloudWatch and AWS Config to maintain operational efficiency and compliance.<br/>
+   * ✅ Implementing disaster recovery and backup solutions using AWS services like Amazon S3 and AWS Backup for data resilience.<br/>
+   * ✅ Conducting regular security assessments and implementing remediation measures to ensure compliance with industry standards and regulations.<br/>
+   * ✅ Collaborating with cross-functional teams to design and implement cloud solutions that meet business requirements and adhere to best practices.<br/>
+   * ✅ Staying updated with the latest AWS technologies and best practices to continuously improve cloud infrastructure and operations.
+
+
+### Cloud Security on AWS:
+   * ✅ Implementing robust and scalable security solutions using AWS services such as Amazon VPC, IAM, and Security Groups to ensure secure access controls..<br/>
+   * ✅ Designing and deploying highly resilient and fault-tolerant architectures using AWS services like Elastic Load Balancing (ELB) and Auto Scaling to enhance security posture.<br/>
+   * ✅ Optimizing security controls and configurations in AWS environments to align with industry best practices and compliance requirements.<br/>
+   * ✅ Utilizing AWS security services like AWS WAF (Web Application Firewall) and AWS Shield to protect against common security threats and DDoS attacks.<br/>
+   * ✅ Implementing encryption for data at rest and in transit using AWS Key Management Service (KMS) and AWS Certificate Manager (ACM) to safeguard sensitive information.<br/>
+   * ✅ Monitoring and analyzing security events using AWS CloudTrail and Amazon GuardDuty to detect and respond to security incidents in real-time.<br/>
+   * ✅ Conducting regular security assessments and audits using AWS Inspector and AWS Config to identify and remediate security vulnerabilities.<br/>
+   * ✅ Implementing secure DevOps practices and automation using AWS CodePipeline and AWS Config to ensure secure software development and deployment processes.<br/>
+   * ✅ Collaborating with cross-functional teams to establish and maintain a culture of security awareness and continuous improvement across the organization.<br/>
+   * ✅ Staying updated with the latest security trends and technologies in the AWS ecosystem to proactively address emerging security challenges and threats.
+
 ### 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗹𝗼𝘂𝗱  :
    *✅ Implementing serverless computing for auto-scaling and cost optimization.<br/>
     *✅ Building and managing containerized applications using technologies like Docker and Kubernetes.<br/>
