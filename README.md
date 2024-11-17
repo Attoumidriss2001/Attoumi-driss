@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ATTOUMI DRISS</h1>
-<h3 align="center">I'm Attoumi Driss, a highly motivated person, dynamic, persevering and rigorous. I'm Computer Science Student 👨‍💻 Full stack developer, cloud computing, devops, and Data Science Enthusiast 🤖.</h3>
+<h3 align="center">I'm Attoumi Driss, a highly motivated person, dynamic, persevering and rigorous. I'm Computer Science engineer 👨‍💻 Full stack developer, cloud computing, devops, and Data Science Enthusiast 🤖.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attoumidriss2001&label=Profile%20views&color=0e75b6&style=flat" alt="attoumidriss2001" /> </p>
 
